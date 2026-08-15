@@ -8,13 +8,13 @@
 <!-- TOP SECTION: DUAL COLUMN LAYOUT -->
 <div>
   <!-- Right Side: Anime GIF -->
-  <img align="right" height="750" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHE2YXF5ODEyYTQya3I0NjB4MzM1bHV0cDRnYTY2bWhiaHMyYnVnOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2Jbqd3dfdDE5KxMo45/giphy.gif" alt="Anime Character GIF" />
+  <img align="right" height="700" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHE2YXF5ODEyYTQya3I0NjB4MzM1bHV0cDRnYTY2bWhiaHMyYnVnOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2Jbqd3dfdDE5KxMo45/giphy.gif" alt="Anime Character GIF" />
 
   <!-- Left Side: About Me (Changed to h3 to remove the crossing line) -->
   <h3 align="left">💫 About Me</h3>
   <p align="left">
     🔭 I’m currently working on <b>LifeQuest</b> and <b>KyusiyuSphere</b>.<br><br>
-    👯 I’m looking to collaborate on building desktop and web applications.<br><br>
+    👯 I’m looking to collaborate on building web applications.<br><br>
     🤝 I’m looking for help with clean coding practices.<br><br>
     🌱 I’m currently learning <b>C#</b> and <b>PostgreSQL</b>.<br><br>
     💬 Ask me about different country flags.<br><br>
