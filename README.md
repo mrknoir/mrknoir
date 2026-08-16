@@ -70,7 +70,7 @@
 ## 📊 GitHub Stats & Streaks:
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=mrknoir&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=mrknoir&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-profile-maker.vercel.app/api/streak?username=mrknoir&theme=dark&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br>
