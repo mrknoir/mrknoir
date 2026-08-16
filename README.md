@@ -11,7 +11,7 @@
   <img align="right" height="700" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHE2YXF5ODEyYTQya3I0NjB4MzM1bHV0cDRnYTY2bWhiaHMyYnVnOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2Jbqd3dfdDE5KxMo45/giphy.gif" alt="Anime Character GIF" />
 
   <!-- Left Side: About Me (Changed to h3 to remove the crossing line) -->
-  <h3 align="left">💫 About Me</h3>
+  <h3 align="left">➤ About Me:</h3>
   <p align="left">
     🔭 I’m currently working on <b>LifeQuest</b>.<br><br>
     👯 I’m looking to collaborate on building web apps.<br><br>
@@ -86,7 +86,7 @@
 <br><br>
 
 <!-- SOCIAL LINKS -->
-## 🌐 Connect with me:
+## 🌐 Connect With Me:
 <div align="left">
   <a href="https://discord.gg/1290244742856048706"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" height="35" alt="Discord"></a>
   <a href="https://facebook.com/mrknoir"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" height="35" alt="Facebook"></a>
