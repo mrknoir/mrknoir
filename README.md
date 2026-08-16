@@ -77,7 +77,7 @@
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img alt="github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mrknoir&theme=react-dark&hide_border=false">
+  <img src="https://github-profile-maker.vercel.app/api/activity?username=mrknoir&theme=dark&hide_border=false" alt="Activity Graph" />
 </div>
 
 <br><br>
