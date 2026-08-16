@@ -13,8 +13,8 @@
   <!-- Left Side: About Me (Changed to h3 to remove the crossing line) -->
   <h3 align="left">💫 About Me</h3>
   <p align="left">
-    🔭 I’m currently working on <b>LifeQuest</b> and <b>KyusiyuSphere</b>.<br><br>
-    👯 I’m looking to collaborate on building web applications.<br><br>
+    🔭 I’m currently working on <b>LifeQuest</b>.<br><br>
+    👯 I’m looking to collaborate on building web apps.<br><br>
     🤝 I’m looking for help with clean coding practices.<br><br>
     🌱 I’m currently learning <b>C#</b> and <b>PostgreSQL</b>.<br><br>
     💬 Ask me about different country flags.<br><br>
