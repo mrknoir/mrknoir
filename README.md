@@ -7,6 +7,7 @@
 <div>
   <!-- Right Side: Anime GIF -->
   <img align="right" height="700" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHE2YXF5ODEyYTQya3I0NjB4MzM1bHV0cDRnYTY2bWhiaHMyYnVnOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2Jbqd3dfdDE5KxMo45/giphy.gif" alt="Anime Character GIF" />
+</div>
 
 <br>
 
