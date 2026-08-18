@@ -3,8 +3,6 @@
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=rect&height=130&section=header&reversal=false&text=%E1%B4%8D%E1%B4%80%CA%80%E1%B4%8B%20%CA%99%E1%B4%8F%C9%B4%E1%B4%85%E1%B4%8F%E1%B4%84%E1%B4%80%C9%B4%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=twinkling&desc=QCU%20%7C%20IT%20Sophomore%20%7C%20Aspiring%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=70&textBg=false&theme=dark" alt="Header Banner" />
 </div>
 
-<br>
-
 <!-- TOP SECTION: DUAL COLUMN LAYOUT -->
 <div>
   <!-- Right Side: Anime GIF -->
