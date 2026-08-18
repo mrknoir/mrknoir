@@ -83,7 +83,13 @@
   <img src="https://github-profile-maker.vercel.app/api/activity?username=mrknoir&theme=dark&hide_border=false" alt="Activity Graph" />
 </div>
 
-<br><br>
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrknoir&color=brightgreen&style=plastic&label=Profile%20Views" alt="Profile Views" />
+</div>
+
+<br>
 
 <!-- SOCIAL LINKS -->
 ## 🌐 Connect With Me:
