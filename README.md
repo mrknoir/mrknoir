@@ -1,8 +1,4 @@
 <!-- HEADER BANNER -->
-<div data-importer="border">
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
-</div>
-
 <div align="center">
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=rect&height=130&section=header&reversal=false&text=%E1%B4%8D%E1%B4%80%CA%80%E1%B4%8B%20%CA%99%E1%B4%8F%C9%B4%E1%B4%85%E1%B4%8F%E1%B4%84%E1%B4%80%C9%B4%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=twinkling&desc=QCU%20%7C%20IT%20Sophomore%20%7C%20Aspiring%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=70&textBg=false&theme=dark" alt="Header Banner" />
 </div>
@@ -21,7 +17,7 @@
     👯 I’m looking to collaborate on building web apps.<br><br>
     🤝 I’m looking for help with clean coding practices.<br><br>
     🌱 I’m currently learning <b>C#</b> and <b>PostgreSQL</b>.<br><br>
-    💬 Ask me about different country flags.<br><br>
+    💬 Ask me about country flags.<br><br>
     ⚡ Fun fact: I love to eat Andoks and Boy Bawang :)
   </p>
   
@@ -45,14 +41,11 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
   <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" alt="JavaFX">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
@@ -65,7 +58,6 @@
   <img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Bitwarden">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-  <img src="https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white" alt="Meta">
 </div>
 
 <br><br>
