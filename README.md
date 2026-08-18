@@ -1,4 +1,8 @@
 <!-- HEADER BANNER -->
+<div data-importer="border">
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+</div>
+
 <div align="center">
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=rect&height=130&section=header&reversal=false&text=%E1%B4%8D%E1%B4%80%CA%80%E1%B4%8B%20%CA%99%E1%B4%8F%C9%B4%E1%B4%85%E1%B4%8F%E1%B4%84%E1%B4%80%C9%B4%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=twinkling&desc=QCU%20%7C%20IT%20Sophomore%20%7C%20Aspiring%20Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=70&textBg=false&theme=dark" alt="Header Banner" />
 </div>
@@ -88,21 +92,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mrknoir&color=brightgreen&style=plastic&label=Profile%20Views" alt="Profile Views" />
 </div>
-
-<br>
-
-<!-- SOCIAL LINKS -->
-## 🌐 Connect With Me:
-<div align="left">
-  <a href="https://discord.gg/1290244742856048706"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" height="35" alt="Discord"></a>
-  <a href="https://facebook.com/mrknoir"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" height="35" alt="Facebook"></a>
-  <a href="https://instagram.com/andokzify"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" height="35" alt="Instagram"></a>
-  <a href="https://youtube.com/@UC2UuixKYckGPrl7TEzarKNQ"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" height="35" alt="YouTube"></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="Spotify"></a>
-</div>
-
-<br>
 
 <div align="center">
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light" alt="Footer Banner" />
